@@ -1,11 +1,11 @@
 
-# Proyectos 📂
+# Proyectos DAM 📂
 **¡Bienvenido a mi repositorio de GitHub!** Aquí encontrarás una variedad de proyectos en Java que estoy desarrollando como parte de mi formación en el ciclo de Desarrollo de Aplicaciones Multiplataforma (DAM). Desde pequeñas aplicaciones hasta proyectos más complejos, en este proyecto se intenta conseguir una programación variada pero dando un principal enfoque en java. ¡Explora y aprende conmigo! Siéntete libre de colaborar, hacer preguntas o sugerir mejoras. ¡Vamos a aprender juntos! 😊🚀
 
 ## Biblioteca
-- **[Java 🏴](https://github.com/y9bkh/Proyectos/blob/main/README.md#java-)**
-- **[Carpetas (Java 🏴)](https://github.com/y9bkh/Proyectos/blob/main/README.md#carpetas-java-)**
-- **[Licencia 📖](https://github.com/y9bkh/Proyectos/blob/main/README.md#licencia-)**
+- **[Java 🏴](https://github.com/y9bkh/Proyectos-DAM/blob/main/README.md#java-)**
+- **[Carpetas (Java 🏴)](https://github.com/y9bkh/Proyectos-DAM/blob/main/README.md#carpetas-java-)**
+- **[Licencia 📖](https://github.com/y9bkh/Proyectos-DAM/blob/main/README.md#licencia-)**
 
 ## Java 🏴
 **1) Binario a decimal 🧮:**
@@ -29,8 +29,8 @@
 
 ## Carpetas (Java 🏴)
 
-   **1) [GAMES 👾](Games)**
- - **Descripción:** La carpeta contiene juegos como Battleship, Mastermind y Circo Romano, que ofrecen entretenimiento estratégico y desafíos mentales.
+   **1) [GAMES 👾 & APPS 📱](Games%20&%20Apps)**
+ - **Descripción:** Esta carpeta incluye una colección de juegos como Battleship, Mastermind y Circo Romano, diseñados para ofrecer entretenimiento estratégico y desafiar la mente. Además, contiene aplicaciones desarrolladas en Android Studio, como RemindMe, un bloc de notas intuitivo que permite a los usuarios crear, gestionar y eliminar notas personales de manera sencilla y eficiente.
   
   **2) [Programación Orientada a Objetos (POO)](POO)**
  - **Descripción:** Proyectos que organiza el código en "objetos" que encapsulan datos y comportamientos, promoviendo la reutilización y la modularidad. Aquí encontraras proyectos de gestión y similares a día mas.
