@@ -30,7 +30,7 @@
 ## Carpetas (Java 🏴)
 
    **1) [GAMES 👾 & APPS 📱](Games%20&%20Apps)**
- - **Descripción:** La carpeta contiene juegos como Battleship, Mastermind y Circo Romano, que ofrecen entretenimiento estratégico y desafíos mentales. Por otro lado, contiene aplicaciones desarrolladas en Android Studio como RemindMe que trata de un bloc de notas que permite al usuario guardar,gestionar y eliminar notas personales. 
+ - **Descripción:** Esta carpeta incluye una colección de juegos como Battleship, Mastermind y Circo Romano, diseñados para ofrecer entretenimiento estratégico y desafiar la mente. Además, contiene aplicaciones desarrolladas en Android Studio, como RemindMe, un bloc de notas intuitivo que permite a los usuarios crear, gestionar y eliminar notas personales de manera sencilla y eficiente.
   
   **2) [Programación Orientada a Objetos (POO)](POO)**
  - **Descripción:** Proyectos que organiza el código en "objetos" que encapsulan datos y comportamientos, promoviendo la reutilización y la modularidad. Aquí encontraras proyectos de gestión y similares a día mas.
