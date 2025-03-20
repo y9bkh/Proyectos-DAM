@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">RemindMe</string>
+    <string name="btnIniciar">Iniciar</string>
+    <string name="txtNombre">Introduce tu nombre</string>
+
+
+    <string name="txtRecordatorio">Nuevo Recordatorio</string>
+</resources>

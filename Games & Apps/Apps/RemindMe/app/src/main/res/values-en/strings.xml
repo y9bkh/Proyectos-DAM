@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btnIniciar">Start</string>
+    <string name="txtNombre">Enter your name</string>
+    <string name="txtRecordatorio">New Reminder</string>
+</resources>
