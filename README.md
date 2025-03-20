@@ -1,9 +1,9 @@
 
-# Proyectos 📂
+# Proyectos DAM 📂
 **¡Bienvenido a mi repositorio de GitHub!** Aquí encontrarás una variedad de proyectos en Java que estoy desarrollando como parte de mi formación en el ciclo de Desarrollo de Aplicaciones Multiplataforma (DAM). Desde pequeñas aplicaciones hasta proyectos más complejos, en este proyecto se intenta conseguir una programación variada pero dando un principal enfoque en java. ¡Explora y aprende conmigo! Siéntete libre de colaborar, hacer preguntas o sugerir mejoras. ¡Vamos a aprender juntos! 😊🚀
 
 ## Biblioteca
-- **[Java 🏴](https://github.com/y9bkh/Proyectos/blob/main/README.md#java-)**
+- **[Java 🏴](https://github.com/y9bkh/Proyectos-DAM/blob/main/README.md#java-)**
 - **[Carpetas (Java 🏴)](https://github.com/y9bkh/Proyectos/blob/main/README.md#carpetas-java-)**
 - **[Licencia 📖](https://github.com/y9bkh/Proyectos/blob/main/README.md#licencia-)**
 
