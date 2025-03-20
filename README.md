@@ -4,8 +4,8 @@
 
 ## Biblioteca
 - **[Java 🏴](https://github.com/y9bkh/Proyectos-DAM/blob/main/README.md#java-)**
-- **[Carpetas (Java 🏴)](https://github.com/y9bkh/Proyectos/blob/main/README.md#carpetas-java-)**
-- **[Licencia 📖](https://github.com/y9bkh/Proyectos/blob/main/README.md#licencia-)**
+- **[Carpetas (Java 🏴)](https://github.com/y9bkh/Proyectos-DAM/blob/main/README.md#carpetas-java-)**
+- **[Licencia 📖](https://github.com/y9bkh/Proyectos-DAM/blob/main/README.md#licencia-)**
 
 ## Java 🏴
 **1) Binario a decimal 🧮:**
@@ -29,8 +29,8 @@
 
 ## Carpetas (Java 🏴)
 
-   **1) [GAMES 👾](Games)**
- - **Descripción:** La carpeta contiene juegos como Battleship, Mastermind y Circo Romano, que ofrecen entretenimiento estratégico y desafíos mentales.
+   **1) [GAMES 👾 $ APPS](Games)**
+ - **Descripción:** La carpeta contiene juegos como Battleship, Mastermind y Circo Romano, que ofrecen entretenimiento estratégico y desafíos mentales. Por otro lado, contiene aplicaciones desarrolladas en Android Studio como RemindMe que trata de un bloc de notas que permite al usuario guardar,gestionar y eliminar notas personales. 
   
   **2) [Programación Orientada a Objetos (POO)](POO)**
  - **Descripción:** Proyectos que organiza el código en "objetos" que encapsulan datos y comportamientos, promoviendo la reutilización y la modularidad. Aquí encontraras proyectos de gestión y similares a día mas.
