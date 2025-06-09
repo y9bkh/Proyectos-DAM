@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ReparaPablo</string>
+    <string name="email_hint">nombre@ejemplo.com</string>
+    <string name="password_hint">••••••••</string>
+    <string name="full_name">Juan Perez</string>
+    <string name="title">Ingrese un título descriptivo</string>
+    <string name="description">Describa detalladamente el problema que está experimentando</string>
+    <string name="select_role">Selecciona tu rol</string>
+    <string name="select_ubication">Selecciona tu ubicación</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

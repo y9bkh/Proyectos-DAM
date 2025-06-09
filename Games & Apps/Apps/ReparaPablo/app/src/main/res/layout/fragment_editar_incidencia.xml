@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/layoutCrearIncidencia"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#F9FAFB"
+    tools:context=".fragments.CrearIncidenciaFragment">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:background="@android:color/white"
+        android:elevation="4dp">
+
+        <TextView
+            android:id="@+id/textTitleEditar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Editar Incidencia"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:textColor="#000000"
+            android:layout_centerInParent="true" />
+
+    </RelativeLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:padding="16dp">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Título"/>
+
+            <EditText
+                android:id="@+id/tituloTextEditar"
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:layout_marginTop="3dp"
+                android:background="@android:drawable/editbox_background"
+                android:drawableLeft="@drawable/baseline_title_24"
+                android:hint="@string/title"
+                android:inputType="text" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="9dp"
+                android:text="Ubicación"/>
+            <AutoCompleteTextView
+                android:id="@+id/autoCompleteUbicacionEditar"
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:layout_marginTop="3dp"
+                android:background="@android:drawable/editbox_background"
+                android:drawableLeft="@drawable/baseline_location_pin_24"
+                android:drawablePadding="8dp"
+                android:hint="@string/select_ubication"
+                android:padding="8dp"
+
+                android:focusable="false"
+                android:cursorVisible="false"
+                android:inputType="none"
+                android:clickable="true" />
+
+            <!-- Etiqueta del campo -->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="9dp"
+                android:text="Descripción del problema"/>
+            <EditText
+                android:id="@+id/editTextDescripcionEditar"
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:layout_marginTop="6dp"
+                android:hint="@string/description"
+                android:background="@android:drawable/editbox_background"
+                android:textSize="17sp"
+                android:gravity="top|start"
+                android:maxLines="6"
+                android:minLines="4"
+                android:scrollbars="vertical" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingTop="12dp">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Imágenes (opcional)"
+                    android:textSize="14sp"
+                    android:layout_marginBottom="8dp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:gravity="center_vertical"
+                    android:weightSum="1">
+
+                    <!-- Botón de Adjuntar -->
+                    <com.google.android.material.button.MaterialButton
+                        android:id="@+id/btnAdjuntarImagenEditar"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Adjuntar imagen"
+                        android:textSize="14sp"
+                        app:icon="@drawable/baseline_image_24"
+                        style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+                        app:cornerRadius="16dp" />
+
+                    <!-- Texto de límite -->
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="16dp"
+                        android:text="Máximo 3 imágenes"
+                        android:textSize="12sp"
+                        android:textColor="#999999" />
+                </LinearLayout>
+            </LinearLayout>
+
+
+
+
+
+            <Button
+                android:id="@+id/btn_Editar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Editar Reporte"
+                android:layout_marginTop="24dp"
+                android:backgroundTint="#1976D2"
+                android:textColor="@android:color/white" />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

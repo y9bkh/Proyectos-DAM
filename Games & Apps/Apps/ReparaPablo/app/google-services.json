@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "733060060053",
+    "project_id": "reparapablo-14400",
+    "storage_bucket": "reparapablo-14400.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733060060053:android:b5e039f5a5c1854ae3dc9c",
+        "android_client_info": {
+          "package_name": "com.example.reparapablo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWLSFkCMsNeF9XhpVW2wD46lcXx8H0XrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

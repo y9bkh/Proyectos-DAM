@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="morado_200">#FFBB86FC</color>
+    <color name="morado_500">#FF6200EE</color>
+    <color name="morado_700">#FF3700B3</color>
+    <color name="azulado_200">#FF03DAC5</color>
+    <color name="azulado_700">#FF018786</color>
+    <color name="lavanda">#8692f7</color>
+    <color name="deep_blue">#0D3B66</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorActiva">#2196F3</color>
+    <color name="colorResuelta">#4CAF50</color>
+
+
+    <color name="estado_pendiente">#FDD835</color>
+    <color name="estado_en_proceso">#42A5F5</color>
+    <color name="estado_resuelto">#66BB6A</color>
+    <color name="estado_urgente">#EF5350</color>
+
+    <color name="estado_pendiente_fondo">#FFF9C4</color>
+    <color name="estado_en_proceso_fondo">#E3F2FD</color>
+    <color name="estado_resuelto_fondo">#E8F5E9</color>
+    <color name="estado_urgente_fondo">#FFEBEE</color>
+</resources>
